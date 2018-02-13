@@ -1,0 +1,1 @@
+This is the blog website for Cornell Cup, coded by Cornell Cup Robotics, Communication team.

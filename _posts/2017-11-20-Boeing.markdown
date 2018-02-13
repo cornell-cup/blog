@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Visit of VP of Boeing, Randy Tinseth"
+date:   2017-09-17 17:19:51 -0400
+categories: personal
+---
+
+Visit of VP of Boeing, Randy Tinseth
+November 20, VP of Boeing Randy Tinseth came to visit our lab. We are the ONLY lab he came to visit! 
+He showed great interest in the miniBot project and had an interest in product commercialization.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
