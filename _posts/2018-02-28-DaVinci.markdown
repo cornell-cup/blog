@@ -9,8 +9,10 @@ On February 28th, Da Vinci came to visit the Cornell Cup Robotics Lab! They look
 
 Here are some pictures from Da Vinci's visit to our lab.
 
-({{ "/assets/davinci1.jpg" | absolute_url }})
- 
+({{ "/assets/davinci1.JPG" | absolute_url }})
+
+
+ ({{ "/assets/davinci2.JPG" | absolute_url }})
 
 
 
