@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cornell Engineering Project Showcase
-date:   2018-04-18 17:19:51 -0400
+date:   2018-02-06 17:19:51 -0400
 categories: personal
 ---
 
