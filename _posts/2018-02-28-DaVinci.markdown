@@ -9,10 +9,10 @@ On February 28th, Da Vinci came to visit the Cornell Cup Robotics Lab! They look
 
 Here are some pictures from Da Vinci's visit to our lab.
 
-![Photo of MechE Lead Megan presenting about Minibot]({{ "/assets/davinci_228/1.JPG" | absolute_url }})
+![Photo of MechE Lead Megan presenting about Minibot]({{ site.url }}/assets/davinci_228/1.JPG)
 
 
-![Photo of JP showing our Da Vinci visitor a piece of the robot]({{ "/assets/davinci_228/2.JPG" | absolute_url }})
+![Photo of JP showing our Da Vinci visitor a piece of the robot]({{ site.url }}/assets/davinci_228/2.JPG)
 
 
 
