@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Visit of Da Vinci"
+date:   2018-03-16 17:19:51 -0400
+categories: personal
+---
+
+On February 28th, Da Vinci came to visit the Cornell Cup Robotics Lab! They looked at three of our projects: MiniBot, MagGame and Wall. The demo was a great chance for Cornell Cup Robotics to showcase their projects - Da Vinci was pleased with our progress and are excited about our efforts!
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

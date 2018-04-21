@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Bits On Our Minds (BOOM)"
+date:   2018-04-18 17:19:51 -0400
+categories: personal
+---
+
+On April 18th, the Cornell Computing and Information Science department held its annual BOOM (Bits On Our Minds) showcase. The event was an opportunity for students in the College of Engineering to showcase the work they have done this past year. Cornell Cup Robotics was given a chance to participate and opened its lab up to the general public for viewing. During the event, visitors rotated around the lab learning about our various projects: MiniBot, Wall and Pogo. 
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
