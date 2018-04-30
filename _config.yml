@@ -24,7 +24,7 @@ github_username:  cornell-cup
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: Slate
 plugins:
   - jekyll-feed
 
