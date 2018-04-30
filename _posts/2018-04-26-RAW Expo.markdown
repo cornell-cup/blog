@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  RAW 
+title:  RAW Expo
 date:   2018-04-26 17:19:51 -0400
 categories: personal
 ---
 
 ![Cornell Cup Members]( {{"/assets/RAW Expo/members.jpg" | relative_url }})
 
-Cornell Cup Robotics participated in RAW underEXPOsed hosted by Medium Design Collective on Thursday, April 26th. The event was hosted in the Milstein Dome and was an opportunity for different organizations on Cornell's campus to showcase thier work. In attendance were engineering project teams, design teams, and editorial teams. At the event, Cornell Cup gave visitors the opportunity to steer R2, our replicate robot from Star Wars. Visitors also got the chance to control a Minibot by playing with a GUI. 
+Cornell Cup Robotics participated in RAW underEXPOsed hosted by Medium Design Collective on Thursday, April 26th. The event was hosted in the Milstein Dome and was an opportunity for different organizations on Cornell's campus to showcase thier work. In attendance were engineering project teams, design teams, and editorial teams. 
 
 ![R2]( {{"/assets/RAW Expo/R2.jpg" | relative_url }})
+
+At the event, Cornell Cup gave visitors the opportunity to steer R2 using an xbox controller. Cornell Cup members also steered R2 around different booths, causing confusion from some of the visitors. 
+
 ![Explaining to a visitor]( {{"/assets/RAW Expo/explain.jpg" | relative_url }})
 
+Visitors also got the chance to control a Minibot by playing with a GUI. Pictured above is the MechE lead Megan explaining the details of Minibot to one our booth visitors. 
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
