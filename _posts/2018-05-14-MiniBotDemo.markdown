@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  MiniBot Demo Day
-date:   2018-05-14 17:19:51 -0400
+date:   2018-05-14 18:00:00 -0400
 categories: personal
 ---
 
